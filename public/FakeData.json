@@ -2,26 +2,34 @@
     {
       "id": 1,
       "name": "Food Delivery",
-      "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
-      "img1": "https://i.ibb.co/tLq8TRH/food-3.png",
+      "description": "A simple Home food delivery website which allows food in your door at any time",
+      "img1": "https://i.ibb.co/34xy3j8/food-1.png",
       "img2": "https://i.ibb.co/MSf0cS6/food-2.png",
-      "img3": " https://i.ibb.co/34xy3j8/food-1.png"     
+      "img3": "https://i.ibb.co/tLq8TRH/food-3.png ",
+      "live":"https://airlines-dba70.firebaseapp.com/" ,
+      "Technology":"Bootstarp,Javascript,React"
     },
+    
     {
       "id": 2,
       "name": "Doctors Hospital",
-      "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
+      "description": "A hospital website where you can get the services and know the details information",
       "img1": "https://i.ibb.co/yXkyYQL/doc-1.png",
       "img2": "https://i.ibb.co/56sSTtx/doc-2.png",
-      "img3": " https://i.ibb.co/5WcL3Zg/doc-3.png"  
+      "img3": " https://i.ibb.co/5WcL3Zg/doc-3.png",
+      "live":"https://life-lione-hospital.firebaseapp.com/",
+      "Technology":"Bootstarp,Javascript,React,Mongodb,"
     },
     {
       "id": 3,
       "name": "Bike Sell website",
-      "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
+      "description": "A simple bike selling website where you can buy and sell your desire bike",
       "img1": "https://i.ibb.co/mbzWsrF/bike-1.png",
       "img2": "https://i.ibb.co/C6k9S4J/bike-2.png",
-      "img3": " https://i.ibb.co/qn3fyNB/bike-3.png"  
+      "img3": " https://i.ibb.co/qn3fyNB/bike-3.png",
+      "live":"https://scambler-dukati.firebaseapp.com/",
+      "Technology":"Bootstarp,Javascript,React,Mongodb" 
+ 
     }
  
     
