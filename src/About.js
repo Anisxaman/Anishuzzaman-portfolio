@@ -15,7 +15,8 @@ function About() {
             <img src={aboutImg} alt="" className="about__img" />
           </div>
           <div className="col__2 ">
-            <h1 className="about__heading line-1 anim-typewriter ">About Me</h1>
+            {/* <h1 className="about__heading line-1 anim-typewriter ">About Me</h1> */}
+            <h1 className="about__heading  ">About Me</h1>
             {/* <h1 className="typewriter">About Me</h1> */}
             <div className="about__meta">
               <p data-aos="fade-up-right" data-aos-duration="2000" className="about__text p__color">
@@ -29,7 +30,7 @@ function About() {
                 but the majority have suffered in some form, by injected humour,
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="https://drive.google.com/drive/folders/19KBHdXEExkAOnuXVVSliMN3eQFygU-4Y?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1zSgMDsT_wIU-62Ivmm61Bk_wvLrKiq74/view?usp=sharing" target="_blank">
                   <button className="about btn pointer">Download Rsume</button>
                 </a>
                 <a href="#">

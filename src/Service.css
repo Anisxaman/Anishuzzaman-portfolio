@@ -50,6 +50,12 @@ h1.service__text {
     padding: 32px;
 }
 }
+@media only screen and (max-width: 800px){
+    .line-1{
+        font-size: 100%;
+    }
+
+}
 
 
 
