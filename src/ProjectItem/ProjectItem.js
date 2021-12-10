@@ -21,7 +21,7 @@ const ProjectItem = (props) => {
 
 
     return (
-        <div className="col-lg-3 col-12 mb-4">
+        <div className="col-lg-3 col-12 mb-4 ">
                       
              <div >
                  <div className="project__box pointer relative">
@@ -38,7 +38,7 @@ const ProjectItem = (props) => {
 
                      <div className="d-flex ">
                      <a href={live} className="project__btn text-dark" target="_blank">View Demo</a>
-                     <Link  to={`/projectDetail/${id}`} className="project__btn text-dark" target="_blank">Details</Link>
+                     <Link  to={`/projectDetail/${id}`} className="project__btn text-dark">Details</Link>
                      
 
                      </div>

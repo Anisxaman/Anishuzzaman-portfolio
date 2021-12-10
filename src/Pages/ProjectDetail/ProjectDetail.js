@@ -25,19 +25,19 @@ console.log(result);
         <>
        <div>
 
-           <div className="row">
+           <div className="row " style={{marginTop:"200px"}}>
               
-                   <div className="col-lg-3 col-6">
+                   <div className="col-lg-3 col-12 mt-3">
                        <img className="img-fluid"   src={result?.img1} alt="" />
 
                    </div>
-                   <div className="col-lg-3 col-6">
-                   <img className="img-fluid" src={result?.img2} alt="" />
+                   <div className="col-lg-3 col-12 mt-3">
+                   <img className="img-fluid"  height="500px"  src={result?.img2} alt="" />
 
 
                    </div>
-                   <div className="col-lg-3 col-6">
-                   <img className="img-fluid" src={result?.img3} alt="" />
+                   <div className="col-lg-3 col-12 mt-3">
+                   <img className="img-fluid"  height="500px"  src={result?.img3} alt="" />
 
 
                    </div>

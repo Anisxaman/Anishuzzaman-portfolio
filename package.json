@@ -6,11 +6,18 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "jquery": "^3.6.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-jotform-embed": "^1.1.2",
+    "react-loader-spinner": "^4.0.0",
+    "react-particles-js": "^3.6.0",
     "react-router-dom": "^6.0.2",
     "react-scripts": "4.0.3",
+    "react-spinners": "^0.11.0",
     "react-typing-effect": "^2.0.5",
+    "swiper": "^7.3.1",
+    "tsparticles": "^1.37.5",
     "web-vitals": "^1.1.2"
   },
   "scripts": {

@@ -5,7 +5,7 @@ function About() {
   //  Up To Top Btn
     window.addEventListener("scroll", function(){
       const upToTop = document.querySelector("a.bottom__to__top");
-       upToTop.classList.toggle("active", window.scrollY > 0)
+       upToTop?.classList?.toggle("active", window.scrollY > 0)
     });
   return (
     <div className="about component__space" id="About">
@@ -25,10 +25,10 @@ function About() {
               <p data-aos="fade-up-left" data-aos-duration="2000" className="about__text p__color">
               I Loves to learn & explore new things & passionate about programming. I am willing to accept challenge to improve myself better and develop my skills.
               </p>
-              <p data-aos="fade-up-right" data-aos-duration="2000" className="about__text p__color">
+              {/* <p data-aos="fade-up-right" data-aos-duration="2000" className="about__text p__color">
                 There are many variations of passages of Lorem Ipsum available,
                 but the majority have suffered in some form, by injected humour,
-              </p>
+              </p> */}
               <div className="about__button d__flex align__items__center">
                 <a href="https://drive.google.com/file/d/1zSgMDsT_wIU-62Ivmm61Bk_wvLrKiq74/view?usp=sharing" target="_blank">
                   <button className="about btn pointer">Download Rsume</button>
