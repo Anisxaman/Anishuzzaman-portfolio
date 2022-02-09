@@ -1,4 +1,4 @@
-<img src="https://ibb.co/zFKnbcb" width="128"/>
+<img src="https://github.com/Anisxaman/Portfolio-project/blob/master/screencapture-new-portfolio-myself-netlify-app-2022-02-10-00_53_15.png" width="128"/>
 
 
 
